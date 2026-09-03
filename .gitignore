@@ -1,0 +1,11 @@
+**/*.log
+**/.env
+**/.env*
+**/*.env*
+!.env.example
+
+# === PYTHON ARTIFACTS ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
